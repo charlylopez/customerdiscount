@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>customerdiscount</name>
+    <displayName><![CDATA[Descuentos Personalizados por Usuario]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Permite asignar descuentos especificos a usuarios individuales.]]></description>
+    <author><![CDATA[Carlos Lopez]]></author>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
